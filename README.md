@@ -17,3 +17,10 @@ communicating with the same service, and the service was accessed by the same us
 Screenshot of accessing local rabbitmq service
 
 ![image](https://github.com/Nabilcodes/publisher/assets/71275597/a04ee0cd-a788-4403-a269-3f8c6566d5d6)
+
+Screenshot of two console, the left was from the publisher program, and the right is from
+the subscriber program, sending messages from the former to the latter by using rabbitmq
+as intermediaries.
+
+![image](https://github.com/Nabilcodes/publisher/assets/71275597/6bbe98dc-1c79-4cb4-95c1-f968f90deb03)
+
