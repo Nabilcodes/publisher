@@ -13,3 +13,7 @@ resource and how to access it (with what username, password, and port). Whats di
 was the role, in which in this case, the program was publishing messages to the service,
 and the other was receiving message from the service. Same url means they were 
 communicating with the same service, and the service was accessed by the same user.
+
+Screenshot of accessing local rabbitmq service
+
+![image](https://github.com/Nabilcodes/publisher/assets/71275597/a04ee0cd-a788-4403-a269-3f8c6566d5d6)
